@@ -32,7 +32,7 @@
             <li>PostgressSql</li>
         </section>
         <section>
-            <li>MongoDB </li>
+            <li>Formik and Yup </li>
         </section>
         <section>
             <li>npm and yarn Webpack </li>
@@ -41,10 +41,4 @@
             <li>Git & GitLab </li>
         </section>
     </ul>
-</div>
-<h1>Contact me</h1>
-<div class="row skills">
-    <section>
-        <p>+98 9031278394</p>
-    </section>
 </div>
