@@ -29,7 +29,7 @@
             <li>MySql</li>
         </section>
         <section>
-            <li>PostgressSql</li>
+            <li>PostgreSql</li>
         </section>
         <section>
             <li>Formik and Yup </li>
